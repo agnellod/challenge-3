@@ -12,3 +12,5 @@
 - Lastly I added one more if and else statement making sure that undefined wouldn't come back if you failed to select another character during the prompt.
 
 https://agnellod.github.io/challenge-3/
+
+![screencapture-file-C-Users-Agnel-bootcamp-challenge-3-index-html-2023-01-16-08_50_59](https://user-images.githubusercontent.com/119445300/212719925-c4cdf844-45bd-40cf-84a5-ea71290101c6.jpg)
