@@ -10,3 +10,5 @@
 -added another if statement with an alert stating you need to select at least one of the characters listed in the confirm statements.
 - I also added a for loop at the end of the function to generate the actual random password using variables I already created and put a return under so that the generated password would display at the very end.
 - Lastly I added one more if and else statement making sure that undefined wouldn't come back if you failed to select another character during the prompt.
+
+https://agnellod.github.io/challenge-3/
